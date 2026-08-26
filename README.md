@@ -1,2 +1,20 @@
-# WEB-SCRAPING-BASICS- 
-This the basic web scraping project which i have made i am taking data from the website and converting it to the pandas data frame 
+# ML-BASICS- 
+-This the basic web scraping project which i have made i am taking data from the website and converting it to the pandas data frame 
+-I learn how to deal with the numerical and the categorical data by the EDA techniques 
+- 1st i learned how to deal with the Univariate data Using The
+ - Univariate cat.
+  - Count plot
+  - pie Chart
+ - Univariate num.
+  - histogram
+  - box plot
+  - distplot
+- I learned later how to deal with the bivariate and multi variate dat by the EDA methods
+- Scatterplot num-num
+- bar plot num-cat
+- box-plot num-cat
+- distplot num-cat
+- heatmap cat cat
+- clustermap cat-cat
+- pairplot
+- -lineplot 
